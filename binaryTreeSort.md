@@ -1,0 +1,1 @@
+![binary tree](/img/binarytree.PNG)
